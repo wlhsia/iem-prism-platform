@@ -1,0 +1,11 @@
+/backend-backup
+/nb-app
+
+**/venv
+**/__pycache__
+
+**/node_modules
+**/build
+
+**/.env.development
+**/.env.production
